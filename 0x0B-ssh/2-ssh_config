@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#config file
+HOST    alx-fun
+        HostName 100.25.148.117
+        User ubuntu
+        IdentityFile ~/.ssh/school
+        PasswordAuthentication no
